@@ -45,14 +45,14 @@ The project's future enhancements may include:
 
 ## Contribution and Support
 
-We encourage contributions from developers, researchers, and enthusiasts in the fields of agriculture and AI. Your insights and improvements can significantly enhance the project's impact.
+I encourage contributions from developers, researchers, and enthusiasts in the fields of agriculture and AI. Your insights and improvements can significantly enhance the project's impact.
 
 
 # Important: Refer to the Screenshots Document for Practical Examples
 
 ## Understanding the Project Through Examples
 
-To fully grasp how the Tomato Image Detection and Classification Project functions in practice, we strongly encourage you to refer to the accompanying **Screenshots Document**. This document is crucial for understanding the project's workflow and user interface.
+To fully grasp how the Tomato Image Detection and Classification Project functions in practice, I strongly encourage you to refer to the accompanying **Screenshots Document**. This document is crucial for understanding the project's workflow and user interface.
 
 ### Why View the Screenshots Document?
 
