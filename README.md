@@ -21,8 +21,8 @@ India's agriculture sector, a cornerstone of its economy, is heavily reliant on 
 
 ## Usage and Implementation
 
-1. **Model Training**: Users can train the model using the provided `plant_disease.ipynb` Jupyter Notebook.
-2. **Disease Detection and Classification**: Once trained, the model can detect and classify diseases in new tomato plant images.
+1. **Model Training**: I have trained the model using code from the provided `plant_disease.ipynb` Jupyter Notebook.
+2. **Disease Detection and Classification**: Once trained, I used the saved Model to detect and classify diseases in new tomato plant images.
 3. **Interface and Interaction**: Detailed instructions for using the project's interface are provided in the accompanying screenshots document.
 
 ## Applications
