@@ -18,8 +18,6 @@ India's agriculture sector, a cornerstone of its economy, is heavily reliant on 
 
 - **Model**: Modified VGG 16
 - **Configuration**: 8-layer neural network
-- **Technologies Used**: [List all the technologies, libraries, and frameworks used]
-- **Data**: [Details about the dataset used for training and testing the model]
 
 ## Usage and Implementation
 
